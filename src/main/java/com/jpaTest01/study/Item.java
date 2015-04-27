@@ -8,7 +8,7 @@ import javax.persistence.Id;
 import javax.persistence.ManyToOne;
 
 /**
- * An item in an order
+ * An item in an order. test
  */
 @Entity
 public class Item {
